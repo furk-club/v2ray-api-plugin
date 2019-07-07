@@ -1,4 +1,4 @@
-package v2ray_ssrpanel_plugin
+package V2rayApiPlugin
 
 func InStr(s string, list []string) bool {
 	for _, v := range list {
